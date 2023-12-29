@@ -12,7 +12,7 @@ This repository contains the implementation of a hand gesture classification sys
 - **Three-Class System**: Classifies hand gestures into 'open hand', 'folding hand', and 'folded hand'.
 
 ## Program Demo
-[![Demo Video](assets/composite_original_thumb.png)](assets/composite_original.mp4 "Click to Watch Demo!")
+[![Demo Video](assets/composite_original_thumb.png)](assets/composite_original.mov "Click to Watch Demo!")
 
 ## Requirements
 - Python 3.9
