@@ -17,6 +17,27 @@ This repository contains the implementation of a hand gesture classification sys
 ### AFTER APPLYING SMA (orange line):
 [![Demo Video2](assets/composite_both_thumb.png)](assets/composite_both.mov "Click to Watch Demo!")
 
+### Key Highlights of the Project:
+
+- **Frame-Level Oscillation Reduction**: Employs a simple moving average (SMA) strategy to mitigate frame-to-frame oscillations, leading to more stable and consistent gesture recognition.
+
+- **Enhanced Accuracy and Stability**: The SMA technique significantly improves the accuracy and stability of gesture classification, especially in scenarios where traditional methods might struggle with rapid class fluctuations.
+
+### Potential Use Cases:
+
+- **Interactive Virtual/Augmented Reality**: Can be integrated into VR/AR systems for more natural and intuitive hand gesture controls, enhancing user experience in virtual environments.
+
+- **Smart Home Control**: Suitable for gesture-based control systems in smart homes, allowing users to manage devices or settings with simple hand movements.
+
+- **Accessible Computer Interfaces**: Offers an alternative way for individuals with disabilities to interact with computers and digital devices using hand gestures.
+
+- **Educational Tools**: Can be used in educational software, especially in interactive learning environments, to make educational content more engaging and interactive.
+
+- **Gesture-Controlled Robotics**: Applicable in controlling robots or automated systems where hand gestures can be used for commands, making the interaction more intuitive and user-friendly.
+
+These highlights and use cases illustrate the versatility and practicality of your project, emphasizing its potential impact in various technology sectors.
+
+-----------------
 ## Requirements
 - Python 3.9
 - Dependencies listed in `requirements.txt`
