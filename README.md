@@ -1,7 +1,6 @@
 # Enhancing Frame-Level Stability in YOLO Image Classification with Simple Moving Average for Hand Gesture Recognition
 
-- For the Korean version of the project summary, see here: (TO BE UPDATED)
-- Also see:  [Google Slide Presentation (in Korean)](https://docs.google.com/presentation/d/15e_nBQsfDuISFk8tTSFhq8_cxQKo__2_M940YDAwWbA/edit#slide=id.p)
+- Also see (Korean ver.):  [Google Slide Presentation (in Korean)](https://docs.google.com/presentation/d/15e_nBQsfDuISFk8tTSFhq8_cxQKo__2_M940YDAwWbA/edit#slide=id.p)
 
 ## Overview
 This repository contains the implementation of a hand gesture classification system using YOLO v8 Nano. The project aims to enhance the frame-level stability in image classification by applying a simple moving average (SMA) technique to smooth out oscillations in the classification of hand gestures.
