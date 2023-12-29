@@ -11,6 +11,11 @@ This repository contains the implementation of a hand gesture classification sys
 - **Oscillation Reduction**: Implements SMA to reduce frame-to-frame classification fluctuations.
 - **Three-Class System**: Classifies hand gestures into 'open hand', 'folding hand', and 'folded hand'.
 
+## Program Demo
+[![Video Preview](assets/composite_original_thumb.png)](assets/composite_original.mp4)
+
+
+
 ## Requirements
 - Python 3.9
 - Dependencies listed in `requirements.txt`
