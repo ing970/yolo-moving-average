@@ -1,6 +1,6 @@
 # Enhancing Frame-Level Stability in YOLO Image Classification with Simple Moving Average for Hand Gesture Recognition
 
-- For the Korean version of the project summary, see here:  
+- For the Korean version of the project summary, see here: (TO BE UPDATED)
 - Also see:  [Google Slide Presentation (in Korean)](https://docs.google.com/presentation/d/15e_nBQsfDuISFk8tTSFhq8_cxQKo__2_M940YDAwWbA/edit#slide=id.p)
 
 ## Overview
