@@ -11,7 +11,7 @@ This repository contains the implementation of a hand gesture classification sys
 - **Three-Class System**: Classifies hand gestures into 'open hand', 'folding hand', and 'folded hand'.
 
 ## Program Demo
-### BEFORE APPLYING SMA:
+### BEFORE APPLYING SMA (blue line):
 [![Demo Video1](assets/composite_original_thumb.png)](assets/composite_original.mov "Watch Demo!")
 
 ### AFTER APPLYING SMA (orange line):
