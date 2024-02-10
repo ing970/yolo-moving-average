@@ -13,13 +13,11 @@ This repository contains the implementation of a hand gesture classification sys
 
 ## Program Demo
 ### BEFORE APPLYING SMA (blue line):
-![Demo Video1](assets/composite_original_compressed.gif)
+![composite_original_compressed](https://github.com/ing970/yolo-moving-average/assets/120775224/e3446d3e-d454-4661-aeac-eb5b61d57294)
+
 
 ### AFTER APPLYING SMA (orange line):
-![Demo Video2](assets/composite_both_compressed.gif)
-
-
-
+![composite_both_compressed](https://github.com/ing970/yolo-moving-average/assets/120775224/0a78c68f-f238-42ee-9c03-e243572b25a5)
 
 
 
