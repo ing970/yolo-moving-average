@@ -13,6 +13,8 @@ This repository contains the implementation of a hand gesture classification sys
 ## Program Demo
 ### BEFORE APPLYING SMA (blue line):
 ![Demo Video1](assets/composite_original_compressed.gif)
+
+
 [![Demo Video1](assets/composite_original_thumb.png)](assets/composite_original.mov "Watch Demo!")
 
 ### AFTER APPLYING SMA (orange line):
