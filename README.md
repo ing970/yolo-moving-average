@@ -10,24 +10,12 @@ This repository contains the implementation of a hand gesture classification sys
 - **Oscillation Reduction**: Implements SMA to reduce frame-to-frame classification fluctuations.
 - **Three-Class System**: Classifies hand gestures into 'open hand', 'folding hand', and 'folded hand'.
 
-
 ## Program Demo
 ### BEFORE APPLYING SMA (blue line):
 ![composite_original_compressed](https://github.com/ing970/yolo-moving-average/assets/120775224/e3446d3e-d454-4661-aeac-eb5b61d57294)
 
-
 ### AFTER APPLYING SMA (orange line):
 ![composite_both_compressed](https://github.com/ing970/yolo-moving-average/assets/120775224/0a78c68f-f238-42ee-9c03-e243572b25a5)
-
-
-
-
-## Program Demo
-### BEFORE APPLYING SMA (blue line):
-[![Demo Video1](assets/composite_original_thumb.png)](assets/composite_original.mov "Watch Demo!")
-
-### AFTER APPLYING SMA (orange line):
-[![Demo Video2](assets/composite_both_thumb.png)](assets/composite_both.mov "Click to Watch Demo!")
 
 ### Key Highlights of the Project:
 
